@@ -1,6 +1,7 @@
 # xClean
 
 xClean is a python script that cleans tweets via a list of id placed in a text file.
+
 The script with the free version of X api (ex-twitter), cleaned up nearly 5,000 tweets in just a few days, free of charge.
 
 ## Installation
@@ -35,5 +36,7 @@ https://www.makeareadme.com/
 
 ## Extra info
 I wanted to use https://tweetdeleter.com/ & https://tweetdelete.net/ to clean multiple x-accounts.
+
 The accounts were quite old and well overloaded, but the services were paid for, and doing it manually would have taken too much time.
+
 By using the api & tweepy, the problem was quickly solved. 
